@@ -85,7 +85,36 @@ var levelMatrix = {
       ";w;;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;;w",
       ";w;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;w",
       ";w;w;w;w;w;w;w;w;w;w;w;;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w",
-      ";;b;;;;;w;t(26,6);;;;;;;;;w;t(0,19);;;;;;;;;;;;;;;;;;;;"
+      ";;;;;;;w;t(26,6);;;;;;;;;w;t(0,19);;;;;;;;;;;;;;;;;;;;"
+    ]
+  },
+  "4": {
+    "name": "Level 4",
+    "start": {
+      "x": 12,
+      "y": 4
+    },
+    "rows": [
+      "w;w;t(8,8);;w;w;w;w;w;w;w;w;w;w;w;w;w;b;;;;;;w;;;;;;;w;w;w;w;w;;;;b;",
+      "w;;;;w;w;w;w;w;w;w;w;w;w;w;w;w;;w;w;w;w;;w;;w;w;w;w;;w;w;;;;;b;;;x",
+      "w;w;;w;w;w;w;w;w;w;w;w;w;w;w;w;w;;w;w;w;w;;w;;;;;w;;w;w;;w;w;;;;b;",
+      "w;;B(13,15);;w;w;w;w;w;w;w;w;w;w;w;w;w;;w;w;w;w;;w;w;w;w;;w;;w;w;;w;w;;b;;;",
+      "w;;w;w;w;w;w;w;w;w;w;w;;;;w;w;;w;w;w;w;;;;;w;;w;;w;w;;w;w;w;w;w;w;w",
+      "w;;;s;w;w;w;w;w;w;w;w;w;;w;w;w;;;;w;w;w;w;w;;w;;w;;w;w;;;;;;;;w",
+      "w;w;w;w;w;w;w;w;w;w;w;w;w;;w;w;w;w;w;;w;w;w;w;w;s;w;;w;;w;w;w;w;w;w;w;;;w",
+      "w;w;w;w;w;w;w;w;w;w;w;w;w;;w;w;w;w;w;;w;w;w;w;w;;w;;w;;w;w;w;w;w;w;w;;;w",
+      "w;w;w;w;w;w;;;t(1,3);;;w;w;;w;w;w;w;w;;w;w;w;w;w;;w;;w;;;;;;w;w;w;;;w",
+      "w;w;w;w;w;w;;;;;;w;w;;w;w;w;e(r,r,r,r,l,l,l,l);;;;;w;w;w;;w;;w;w;w;w;w;;w;w;w;;;w",
+      "w;w;w;w;w;w;w;w;;w;w;w;e(r,r,l,l);;;w;w;w;w;;w;w;w;w;w;;w;;;;;;w;;w;w;w;b;;w",
+      "w;w;w;w;w;w;w;w;;w;w;w;w;;w;w;w;w;w;s;w;;;;;;w;w;w;w;w;;w;;w;w;w;;;w",
+      "w;w;w;w;w;w;w;w;;w;w;w;w;;w;w;w;w;w;;w;;w;w;w;w;w;b;;w;w;;w;;w;w;w;;;w",
+      ";;;;;;;;;w;w;w;w;;w;w;w;w;w;;w;;w;;;;;;t(27,17);w;w;;w;;w;w;w;;b;w",
+      ";w;w;w;w;w;w;w;w;w;w;w;w;;w;w;w;w;w;;w;;w;;w;w;w;;;w;w;;w;;w;w;w;;;w",
+      ";w;w;w;;;;w;w;w;w;;;;d;;w;w;w;;w;;w;;w;w;w;w;w;w;w;;w;;w;w;w;;;w",
+      ";w;w;w;;w;;w;w;w;w;;w;w;w;;w;w;w;;w;;w;;w;w;w;;b;w;w;;w;;w;w;w;b;;w",
+      ";w;w;w;;w;;w;w;w;w;;w;w;w;;w;w;w;;w;;w;;w;w;w;T(28,13);;;;;w;;w;w;w;;;w",
+      ";w;w;w;;w;;w;w;w;w;;w;w;w;;w;w;w;;w;;w;;w;w;w;;;w;w;w;w;;w;w;w;;;w",
+      ";;;;;w;;;;;;;w;w;w;b;;;;;w;;b;;w;w;w;w;w;w;w;w;w;;;;;;;w"
     ]
   }
 };
